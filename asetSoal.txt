@@ -1,0 +1,60 @@
+Alat musik apa yang yang dimainkan dengan cara di pukul.. 
++Totobuang
++Rumba
++Jukulele
++Tahuri
++A
+#Suling melintang memiliki berapa lubang nada..
++3
++8
++6
++4
++C
+#Pada abad-ke berapa alat musik jukulele diimport dari bangsa portugis..
++Abad-ke 15 M
++Abad-ke 20 M
++Abad-ke 5 M
++Abad-ke 18 M
++A
+#Alat musik apa yang digunakan sebagai tanda memanggil arwah leluhur..
++Jukulele
++Totobuang
++Tahuri
++Tifa
++C
+#Alat musik apa yang dimainkan dengan cara ditiup..
++Totobuang
++Tifa
++Jukulele
++Tahuri
++D
+#Alat musik apakah yang berasal dari Geser-Seram Timur..
++Hawaian
++Tifa
++Rumbah
++Suling Paruh
++B
+#Berapakah jumblah senar yang ada pada Jukulele..
++4
++6
++5
++3
++A
+#Alat musik tradisional maluku apakah yang menggunakan aliran listrik saat dimainkan..
++Rumba
++Gitar
++Hawaian
++Totobuang
++C
+#Alat musik ritmis apakah yang digolongkan dalam jenis perkusi..
++Suling Paruh
++Hawaian
++Jukulele
++Rumba
++D
+#Alat musik apakah yang sering digunakan dalam acara adat cakalele..
++Suling Melintang
++Tifa
++Hawaian
++Gitar
++B
